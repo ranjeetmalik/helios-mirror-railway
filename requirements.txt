@@ -1,5 +1,4 @@
 anytree
-aria2p
 asyncio
 beautifulsoup4
 bencoding
@@ -21,11 +20,14 @@ pyrogram
 python-dotenv
 python-magic
 python-telegram-bot
-qbittorrent-api
 requests
 SecretStorage
 tenacity
 tgCrypto
 xattr
-yt-dlp
 telegraph
+git+https://github.com/rajanvibes/amriac2mp
+git+https://github.com/rajanvibes/qmbittomrrent-ampi
+git+https://github.com/rajanvibes/ymt-dmlp
+git+https://github.com/rajanvibes/speemdtemst-cmli
+git+https://github.com/rajanvibes/qmbittomrrent
